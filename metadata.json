@@ -1,0 +1,6 @@
+{
+  "name": "Tactical Orbit Dashboard",
+  "description": "A 3D space scene website using React Three Fiber with a spaceship, planets, and a comet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
